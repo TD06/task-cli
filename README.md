@@ -34,7 +34,7 @@ node index.js mark-in-progress 1
 7. Mark task as done  
 node index.js mark-done 1
 
-Task Structure
+Task Structure  
 Each task is stored in tasks.json with the following fields:
 - id → unique identifier
 - description → task details
