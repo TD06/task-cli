@@ -18,7 +18,7 @@ node index.js <command> [arguments]
 
 Commands
 1. Add a task  
-node index.js add "Buy groceries"
+node index.js add "Task1"
 2. List all tasks  
 node index.js list
 3. List tasks by status  
@@ -26,7 +26,7 @@ node index.js list done
 node index.js list todo  
 node index.js list in-progress  
 4. Update a task  
-node index.js update 1 "New description"
+node index.js update 1 "New desc"
 5. Delete a task  
 node index.js delete 1
 6. Mark task as in-progress  
