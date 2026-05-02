@@ -1,5 +1,5 @@
-TASK CLI\n
-Its a simple command-line task tracker built using Node.js
+TASK CLI  
+Its a simple command-line task tracker built using Node.js  
 The functions that can be executed in this project are:
 1. Add a task
 2. List tasks
@@ -7,13 +7,13 @@ The functions that can be executed in this project are:
 4. Delete a task
 5. Update a task description
 
-Tech Used
+Tech Used  
 - Node.js
 - Built-in fs module (for file handling)
 - JSON file as storage
 
-How to Run
-Clone the repository and run commands using Node:
+How to Run  
+Clone the repository and run commands using Node:  
 node index.js <command> [arguments]
 
 Commands
